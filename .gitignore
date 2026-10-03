@@ -13,3 +13,10 @@ build/
 轨迹/
 录屏/
 视频/
+.runtime/
+server/vendor/
+server/database/database.sqlite
+server/database/database.sqlite-*
+server/spa/
+server/storage/app/mock/
+client/node_modules/
