@@ -1,0 +1,8 @@
+{
+  "resources/js/api.js": [],
+  "resources/js/app.jsx": [],
+  "resources/js/pages/Adjustments.jsx": [],
+  "resources/js/pages/Finance.jsx": [],
+  "resources/js/pages/FrontDesk.jsx": [],
+  "resources/js/pages/NightAudit.jsx": []
+}
